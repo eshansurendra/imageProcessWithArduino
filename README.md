@@ -34,5 +34,3 @@ The presence of multiple files in the repository reflects the iterative nature o
 - [Flask](https://flask.palletsprojects.com/): Python web framework used for server-side implementation.
 - [ESP32](https://www.espressif.com/en/products/socs/esp32): Microcontroller used for image processing.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
